@@ -1,6 +1,7 @@
 '''
 Created by Shrikrishna Yadav 
 refered from UDEMY lect : "BUILDING CHATBOT USING DL"
+For further improverment or any guidence your are welcome 
 '''
 
 
